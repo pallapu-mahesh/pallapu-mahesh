@@ -1,19 +1,39 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HERO / TOP SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TOP BEAM LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3&section=header&reversal=false&textBg=false" width="100%"/>
 
-<h1>PALLAPU MAHESH</h1>
+<!-- AVATAR RING + NAME -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=PM&fontSize=52&fontColor=58A6FF&fontAlignY=62&animation=fadeIn&desc=PALLAPU%20MAHESH&descSize=36&descAlignY=82&descFontColor=e6edf3" width="100%"/>
 
+<!-- ANIMATED TYPING ROLE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%90%8D+Python+Backend+Developer;%E2%9A%A1+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&height=46&lines=%F0%9F%90%8D+Python+Backend+Developer;%E2%9A%A1+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Developer" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- TAGLINE -->
+<sub><i>Building reliable systems · REST APIs · AI/ML applications</i></sub>
 
 <br/><br/>
 
----
+<!-- DIVIDER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=99999&pause=99999&color=21262d&center=true&vCenter=true&width=480&height=2&lines=+" alt="" />
 
+<!-- CHIPS ROW -->
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572a5&labelColor=161b22&color=21262d" />
+<img src="https://img.shields.io/badge/Full_Stack-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22&color=21262d" />
+<img src="https://img.shields.io/badge/AI_%2F_ML-0d1117?style=flat-square&logo=scikitlearn&logoColor=ff6b6b&labelColor=161b22&color=21262d" />
+<img src="https://img.shields.io/badge/B.Tech_CS-0d1117?style=flat-square&logo=graduation-cap&logoColor=8b949e&labelColor=161b22&color=21262d" />
+<img src="https://img.shields.io/badge/Open_to_Work-0d1117?style=flat-square&logo=circle&logoColor=3fb950&labelColor=161b22&color=21262d" />
+
+<br/><br/>
+
+<!-- BOTTOM DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2" width="100%"/>
+
+</div>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
