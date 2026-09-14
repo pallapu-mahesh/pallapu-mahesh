@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- TOP BEAM LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=3&section=header&reversal=false&textBg=false" width="100%"/>
+<br/>
 
-<!-- AVATAR RING + NAME -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=PM&fontSize=52&fontColor=58A6FF&fontAlignY=62&animation=fadeIn&desc=PALLAPU%20MAHESH&descSize=36&descAlignY=82&descFontColor=e6edf3" width="100%"/>
+<!-- NAME -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=99999&pause=99999&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=PALLAPU+MAHESH" alt="Pallapu Mahesh" />
+</h1>
 
-<!-- ANIMATED TYPING ROLE -->
+<!-- ANIMATED ROLE -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&height=46&lines=%F0%9F%90%8D+Python+Backend+Developer;%E2%9A%A1+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Developer" alt="Typing SVG" />
 </a>
@@ -14,24 +15,27 @@
 <br/>
 
 <!-- TAGLINE -->
-<sub><i>Building reliable systems · REST APIs · AI/ML applications</i></sub>
+<sub><i>Building reliable systems &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; AI/ML applications</i></sub>
 
 <br/><br/>
 
-<!-- DIVIDER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=99999&pause=99999&color=21262d&center=true&vCenter=true&width=480&height=2&lines=+" alt="" />
+<!-- CHIPS — centered, all in one line -->
+<p>
+<img src="https://img.shields.io/badge/🐍_Python-161b22?style=flat-square&labelColor=161b22&color=21262d&logo=python&logoColor=3572a5" />
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_Full_Stack-161b22?style=flat-square&labelColor=161b22&color=21262d&logo=react&logoColor=61dafb" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤖_AI_/_ML-161b22?style=flat-square&labelColor=161b22&color=21262d&logo=scikitlearn&logoColor=F7931E" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_B.Tech_CS-161b22?style=flat-square&labelColor=161b22&color=21262d" />
+&nbsp;
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-161b22?style=flat-square&labelColor=161b22&color=21262d" />
+</p>
 
-<!-- CHIPS ROW -->
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572a5&labelColor=161b22&color=21262d" />
-<img src="https://img.shields.io/badge/Full_Stack-0d1117?style=flat-square&logo=react&logoColor=61dafb&labelColor=161b22&color=21262d" />
-<img src="https://img.shields.io/badge/AI_%2F_ML-0d1117?style=flat-square&logo=scikitlearn&logoColor=ff6b6b&labelColor=161b22&color=21262d" />
-<img src="https://img.shields.io/badge/B.Tech_CS-0d1117?style=flat-square&logo=graduation-cap&logoColor=8b949e&labelColor=161b22&color=21262d" />
-<img src="https://img.shields.io/badge/Open_to_Work-0d1117?style=flat-square&logo=circle&logoColor=3fb950&labelColor=161b22&color=21262d" />
+<br/>
 
-<br/><br/>
-
-<!-- BOTTOM DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2" width="100%"/>
+<!-- CLEAN SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 ### 👋 About Me
