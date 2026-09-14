@@ -3,9 +3,7 @@
 <br/>
 
 <!-- NAME -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=99999&pause=99999&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=PALLAPU+MAHESH" alt="Pallapu Mahesh" />
-</h1>
+<h1>PALLAPU MAHESH</h1>
 
 <!-- ANIMATED ROLE -->
 <a href="https://git.io/typing-svg">
