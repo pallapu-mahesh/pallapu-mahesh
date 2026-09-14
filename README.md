@@ -359,56 +359,6 @@ from REST APIs and database-driven systems to machine learning applications.
 
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY LEARNING                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 📚 Currently Learning
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr><td align="center" width="650">
-
-| | Area | Focus |
-|:---:|:---|:---|
-| 🧠 | **Advanced DSA with Python** | Trees, graphs, dynamic programming |
-| 🏗️ | **Backend Architecture** | System design, scalability patterns |
-| 🔌 | **Advanced API Development** | Async APIs, rate limiting, versioning |
-| 🤖 | **AI / ML** | Deeper model understanding, applied use cases |
-| ⚙️ | **AI Automation** | Building workflows with AI capabilities |
-
-</td></tr>
-</table>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ACTIVITY                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 📊 GitHub Activity
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pallapu-mahesh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallapu-mahesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pallapu-mahesh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<br/>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CONNECT WITH ME                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
