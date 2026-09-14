@@ -383,19 +383,19 @@ from REST APIs and database-driven systems to machine learning applications.
 </td>
 
 <td>
-  <a href="[LeetCode Profile URL]">
+  <a href="https://leetcode.com/u/pallapumahesh/">
     <img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116&label=LeetCode" alt="LeetCode" />
   </a>
 </td>
 
 <td>
-  <a href="[CodeChef Profile URL]">
+  <a href="https://www.codechef.com/users/uer_chime_61">
     <img src="https://img.shields.io/badge/CodeChef-0d1117?style=flat-square&logo=codechef&logoColor=5B4638&label=CodeChef" alt="CodeChef" />
   </a>
 </td>
 
 <td>
-  <a href="[HackerRank Profile URL]">
+  <a href="https://www.hackerrank.com/profile/nanipallapu124">
     <img src="https://img.shields.io/badge/HackerRank-0d1117?style=flat-square&logo=hackerrank&logoColor=2EC866&label=HackerRank" alt="HackerRank" />
   </a>
 </td>
@@ -407,7 +407,7 @@ from REST APIs and database-driven systems to machine learning applications.
 </td>
 
 <td>
-  <a href="mailto:[Your Email]">
+  <a href="mailto:nanipallapu124@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&label=Email" alt="Email" />
   </a>
 </td>
