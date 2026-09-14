@@ -96,7 +96,7 @@ from REST APIs and database-driven systems to machine learning applications.
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=58A6FF)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=E92063)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=python&logoColor=D71F00)
