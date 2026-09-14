@@ -232,8 +232,8 @@ from REST APIs and database-driven systems to machine learning applications.
 
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" /><br/><br/>
-  <sub><b>Rating</b></sub><br/>
-  <sub>2-Stars</sub><br/><br/>
+  <sub><b>Badges</b></sub><br/>
+  <sub>Python-Bronze level</sub><br/><br/>
   <sub><b>Certificates</b></sub><br/>
   <sub>Python-certificate</sub><br/><br/>
   <a href="https://www.hackerrank.com/profile/nanipallapu124"><sub>→ View Profile</sub></a>
@@ -377,26 +377,8 @@ from REST APIs and database-driven systems to machine learning applications.
 </td>
 
 <td>
-  <a href="[LinkedIn URL]">
+  <a href="https://www.linkedin.com/in/mahesh-pallapu-983501302/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&label=Connect" alt="LinkedIn" />
-  </a>
-</td>
-
-<td>
-  <a href="https://leetcode.com/u/pallapumahesh/">
-    <img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116&label=LeetCode" alt="LeetCode" />
-  </a>
-</td>
-
-<td>
-  <a href="https://www.codechef.com/users/uer_chime_61">
-    <img src="https://img.shields.io/badge/CodeChef-0d1117?style=flat-square&logo=codechef&logoColor=5B4638&label=CodeChef" alt="CodeChef" />
-  </a>
-</td>
-
-<td>
-  <a href="https://www.hackerrank.com/profile/nanipallapu124">
-    <img src="https://img.shields.io/badge/HackerRank-0d1117?style=flat-square&logo=hackerrank&logoColor=2EC866&label=HackerRank" alt="HackerRank" />
   </a>
 </td>
 
