@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%90%8D+Python+Backend+Developer;%E2%9A%A1+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Developer" alt="Typing SVG" />
 </a>
 
-<br/>
-<sub><i>Building reliable backend systems, full-stack applications, and practical AI-powered software.</i></sub>
-
 <br/><br/>
 
 ---
@@ -23,22 +20,19 @@
 
 ### 👋 About Me
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr><td align="center" width="650">
+<br/>
 
-<p>
+<p align="center">
 Computer Science student focused on Python backend development, full-stack applications,<br/>
 and AI/ML. I enjoy building practical software that solves real-world problems —<br/>
 from REST APIs and database-driven systems to machine learning applications.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=99999&color=7D8590&center=true&vCenter=true&width=500&height=24&lines=B.Tech+Computer+Science+%7C+Open+to+Opportunities" alt="status" />
-
-</td></tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=99999&color=7D8590&center=true&vCenter=true&width=500&height=24&lines=B.Tech+Computer+Science+%7C+Open+to+Opportunities" alt="status" />
+</p>
 
 <br/>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
