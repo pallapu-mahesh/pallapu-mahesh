@@ -8,5 +8,30 @@
 
 <br/>
 <sub><i>Building things that matter.</i></sub>
+<br/>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="600">
+
+<br/>
+
+<p>
+Computer Science student building reliable backend systems and practical,<br/>
+AI-powered applications. I work primarily with Python, FastAPI, REST APIs,<br/>
+and databases — and explore AI/ML and GenAI to solve real-world problems.
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=99999&color=7D8590&center=true&vCenter=true&width=480&height=24&lines=B.Tech+Computer+Science+%7C+Open+to+Opportunities" alt="status" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 </div>
