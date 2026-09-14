@@ -211,32 +211,32 @@ from REST APIs and database-driven systems to machine learning applications.
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /><br/><br/>
   <sub><b>Problems Solved</b></sub><br/>
-  <sub>[ Replace with actual count ]</sub><br/><br/>
-  <sub><b>Rating</b></sub><br/>
-  <sub>[ Replace with actual rating ]</sub><br/><br/>
-  <a href="[LeetCode Profile URL]"><sub>→ View Profile</sub></a>
+  <sub>200+</sub><br/><br/>
+  <sub><b>Badges</b></sub><br/>
+  <sub>2</sub><br/><br/>
+  <a href="https://leetcode.com/u/pallapumahesh/"><sub>→ View Profile</sub></a>
 </td>
 
 <td width="1" style="border-left: 1px solid #30363d;"></td>
 
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638" alt="CodeChef" /><br/><br/>
-  <sub><b>Rating</b></sub><br/>
-  <sub>[ Replace with actual rating ]</sub><br/><br/>
+  <sub><b>Problems Solved</b></sub><br/>
+  <sub>250+</sub><br/><br/>
   <sub><b>Contests</b></sub><br/>
-  <sub>[ Replace with actual count ]</sub><br/><br/>
-  <a href="[CodeChef Profile URL]"><sub>→ View Profile</sub></a>
+  <sub>2-Stars</sub><br/><br/>
+  <a href="https://www.codechef.com/users/uer_chime_61"><sub>→ View Profile</sub></a>
 </td>
 
 <td width="1" style="border-left: 1px solid #30363d;"></td>
 
 <td align="center" width="200">
   <img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" /><br/><br/>
-  <sub><b>Badges</b></sub><br/>
-  <sub>[ Replace with badge count/names ]</sub><br/><br/>
+  <sub><b>Rating</b></sub><br/>
+  <sub>2-Stars</sub><br/><br/>
   <sub><b>Certificates</b></sub><br/>
-  <sub>[ Replace with certificate count ]</sub><br/><br/>
-  <a href="[HackerRank Profile URL]"><sub>→ View Profile</sub></a>
+  <sub>Python-certificate</sub><br/><br/>
+  <a href="https://www.hackerrank.com/profile/nanipallapu124"><sub>→ View Profile</sub></a>
 </td>
 
 </tr>
