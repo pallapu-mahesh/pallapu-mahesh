@@ -3,7 +3,7 @@
 <br/>
 
 <!-- NAME -->
-<h1>Hi,I'M 👋 PALLAPU MAHESH</h1>
+<h1>Hi,I'M 👋 PALLAPU MAHESH</h1> 
 
 <!-- ANIMATED ROLE --> 
 <a href="https://git.io/typing-svg">
