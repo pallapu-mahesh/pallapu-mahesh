@@ -48,7 +48,7 @@ from REST APIs and database-driven systems to machine learning applications.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=99999&color=7D8590&center=true&vCenter=true&width=500&height=24&lines=B.Tech+Computer+Science+%7C+Open+to+Opportunities" alt="status" />
-</p>
+</p> 
 
 <br/>
 ---
