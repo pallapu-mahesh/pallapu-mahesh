@@ -302,7 +302,7 @@ from REST APIs and database-driven systems to machine learning applications.
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
 </sub>
 <br/>
-<a href="[GitHub Repository]">📁 Repository</a> · <a href="[Live Demo]">🌐 Live Demo</a>
+<a href="https://github.com/pallapu-mahesh/CreatorIQ">📁 Repository</a> · <a href="https://creator-iq-mocha.vercel.app/">🌐 Live Demo</a>
 
 </td>
 </tr>
