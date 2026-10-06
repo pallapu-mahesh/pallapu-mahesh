@@ -2,7 +2,7 @@
  
 <br/>
  
-<!-- NAME -->
+<!-- NAME --> 
 <h1>Hi,I'M 👋 PALLAPU MAHESH</h1> 
 
 <!-- ANIMATED ROLE --> 
